@@ -1,0 +1,32 @@
+# NQR Payment Method Testing Report
+
+This repository documents the manual QA testing I conducted for the NQR (Nigerian Quick Response) payment integration on the Xpress Payments platform.
+
+## 🔍 Overview
+
+- *Feature Tested:* NQR Payment Gateway Integration
+- *Role:* QA Automation Intern @ Xpress Payments
+- *Test Method:* Manual Testing
+- *Environment:* PayXpress Web Interface (Staging)
+
+## 🎯 Test Scope
+
+The tests focused on:
+- QR code scanning experience
+- Transaction success/failure scenarios
+- UI feedback and error handling
+- Payment reconcilation
+- Bank compatibility and integration with NIBSS
+- Timeout behavior and session control
+
+## 📄 What's Included
+
+- test-cases.md – Detailed test cases for the NQR payment flow
+- findings.md – QA and security-related bugs/issues found
+- suggestions.md – Recommendations for improving the feature
+
+## 🧰 Tools Used
+
+- Browser DevTools
+- PayXpress NQR sandbox
+- Manual testing log sheets
